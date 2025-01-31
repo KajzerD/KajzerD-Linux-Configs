@@ -1,1 +1,2 @@
-# This is my personal repository for config files that I use on my Linux systems. It's still WIP
+# This is my personal repository for Linux config files
+## It's still WIP
