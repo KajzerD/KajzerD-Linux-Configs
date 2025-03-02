@@ -1,9 +1,0 @@
-[Desktop Entry]
-Encoding=UTF-8
-Name=Home
-Name[en_GB]=Home
-GenericName=Personal Files
-GenericName[en_GB]=Personal Files
-URL[$e]=$HOME
-Icon=user-home
-Type=Link
